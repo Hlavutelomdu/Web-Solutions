@@ -46,7 +46,7 @@ section::before {
 
 #portfolio::before {
   background: linear-gradient(rgba(173, 216, 230, 0.5), rgba(173, 216, 230, 0.5)),
-              url('portfolio-bg.jpg') center center / cover no-repeat;
+              url('portfolio.jpeg') center center / cover no-repeat;
 }
 
 #testimonials::before {
