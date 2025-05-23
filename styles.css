@@ -350,7 +350,7 @@ nav ul li a:focus {
 
 .contact-icons {
   position: absolute;
-  bottom: 1.5rem;
+  bottom: 0.5rem;
   left: 1.5rem;
   display: flex;
   gap: 1rem;
@@ -358,8 +358,8 @@ nav ul li a:focus {
 }
 
 .contact-icons a img {
-  width: 36px;
-  height: 36px;
+  width: 26px;
+  height: 26px;
   transition: transform 0.3s ease, filter 0.3s ease;
 }
 
